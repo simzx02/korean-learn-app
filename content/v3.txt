@@ -1,0 +1,50 @@
+경제|經濟|n|economy|요즘 경제가 좋지 않아서 취직하기가 어렵다.=The economy is bad these days, so it's hard to find a job.|저는 대학교에서 경제를 전공했어요.=I majored in economics at university.
+사회|社會|n|society|우리 사회에는 다양한 사람들이 살고 있다.=A wide variety of people live in our society.|졸업하고 사회에 나가면 배울 것이 많다.=There is much to learn once you graduate and go out into society.
+환경|環境|n|environment|환경을 보호하기 위해 일회용품을 줄입시다.=Let's cut down on disposable products to protect the environment.|아이들은 환경의 영향을 많이 받는다.=Children are strongly influenced by their environment.
+교육|敎育|n|education|한국 부모들은 자녀 교육에 관심이 많다.=Korean parents care a great deal about their children's education.|신입 사원 교육은 일주일 동안 진행됩니다.=New employee training runs for one week.
+관계|關係|n|relationship, relation|직장에서는 인간관계가 중요해요.=Personal relationships are important at work.|두 나라의 관계가 점점 좋아지고 있다.=Relations between the two countries are gradually improving.
+의견|意見|n|opinion|제 의견을 말씀드리겠습니다.=I will tell you my opinion.|회의에서 다양한 의견이 나왔다.=A variety of opinions came up at the meeting.
+결과|結果|n|result, outcome|시험 결과가 다음 주에 나와요.=The exam results come out next week.|열심히 노력한 결과 좋은 점수를 받았다.=As a result of working hard, I got a good score.
+원인|原因|n|cause|경찰이 사고의 원인을 조사하고 있다.=The police are investigating the cause of the accident.|스트레스는 여러 병의 원인이 된다.=Stress becomes the cause of many illnesses.
+방법|方法|n|method, way|한국어를 빨리 배우는 방법이 있을까요?=Is there a way to learn Korean quickly?|문제를 해결할 방법을 찾아봅시다.=Let's look for a way to solve the problem.
+상황|狀況|n|situation|지금은 상황이 좋지 않으니까 기다립시다.=The situation isn't good right now, so let's wait.|어떤 상황에서도 포기하지 마세요.=Don't give up in any situation.
+해결하다|解決+하다|v|to solve, to resolve|이 문제는 혼자 해결하기 어려워요.=This problem is hard to solve alone.|대화로 갈등을 해결했다.=We resolved the conflict through dialogue.
+발전|發展|n|development, progress|과학 기술의 발전으로 생활이 편리해졌다.=Life has become convenient thanks to advances in science and technology.|한국 경제는 빠르게 발전했다.=The Korean economy developed rapidly.
+변화|變化|n|change|요즘 날씨 변화가 심해요.=The weather changes a lot these days.|인터넷은 우리 생활에 큰 변화를 가져왔다.=The internet brought great change to our lives.
+영향|影響|n|influence, effect|부모는 아이에게 큰 영향을 준다.=Parents have a great influence on their children.|날씨의 영향으로 비행기가 늦게 출발했다.=The plane departed late due to the weather.
+노력|努力|n|effort|노력 없이는 성공할 수 없다.=You cannot succeed without effort.|한국어를 잘하려고 노력하고 있어요.=I'm making an effort to become good at Korean.
+성공|成功|n|success|그 영화는 큰 성공을 거두었다.=That movie achieved great success.|성공하려면 포기하지 않는 마음이 필요하다.=To succeed, you need a mind that doesn't give up.
+실패|失敗|n|failure|실패는 성공의 어머니라는 말이 있다.=There is a saying that failure is the mother of success.|한 번 실패했다고 해서 실망하지 마세요.=Don't be discouraged just because you failed once.
+목표|目標|n|goal, target|올해 목표는 토픽 4급에 합격하는 것이다.=My goal this year is to pass TOPIK level 4.|목표를 세우고 계획대로 공부했다.=I set a goal and studied according to plan.
+능력|能力|n|ability, capability|그 사람은 외국어 능력이 뛰어나다.=That person has outstanding foreign-language ability.|자신의 능력을 믿으세요.=Believe in your own abilities.
+기회|機會|n|opportunity, chance|이번이 마지막 기회일지도 몰라요.=This might be the last chance.|기회가 있으면 한국에서 일해 보고 싶어요.=If I get the chance, I'd like to try working in Korea.
+경쟁|競爭|n|competition|요즘은 취업 경쟁이 심하다.=Competition for jobs is fierce these days.|두 회사는 서로 경쟁하면서 발전했다.=The two companies developed while competing with each other.
+직장|職場|n|workplace, job|직장 생활이 생각보다 힘들어요.=Working life is harder than I expected.|집에서 직장까지 한 시간쯤 걸린다.=It takes about an hour from home to work.
+면접|面接|n|job interview|내일 회사 면접이 있어서 긴장돼요.=I'm nervous because I have a job interview tomorrow.|면접을 볼 때는 자신 있게 대답하세요.=Answer confidently when you have an interview.
+월급|月給|n|monthly salary|월급을 받으면 부모님께 선물을 드릴 거예요.=When I get paid, I'll give my parents a gift.|이번 달부터 월급이 올랐다.=My salary went up starting this month.
+출근|出勤|n|going to work|매일 아침 8시에 출근을 해요.=I go to work at 8 every morning.|출근 시간에는 길이 많이 막힌다.=The roads are very congested during the morning commute.
+회의|會議|n|meeting, conference|오후 2시에 회의가 있습니다.=There is a meeting at 2 p.m.|회의 중이라서 전화를 받을 수 없었어요.=I couldn't answer the phone because I was in a meeting.
+보고서|報告書|n|report|금요일까지 보고서를 제출해야 한다.=I have to submit the report by Friday.|부장님께서 보고서를 다시 쓰라고 하셨다.=The department head told me to rewrite the report.
+습관|習慣|n|habit|일찍 일어나는 습관을 기르고 싶어요.=I want to build the habit of getting up early.|나쁜 습관은 고치기 어렵다.=Bad habits are hard to fix.
+태도|態度|n|attitude|그 학생은 수업 태도가 좋다.=That student has a good attitude in class.|긍정적인 태도로 일하면 결과도 좋아진다.=If you work with a positive attitude, the results improve too.
+감정|感情|n|emotion, feeling|자신의 감정을 솔직하게 표현하세요.=Express your feelings honestly.|화가 나도 감정을 잘 조절해야 한다.=Even when angry, you have to control your emotions well.
+스트레스|Eng. stress|n|stress|일이 많아서 스트레스를 받아요.=I'm stressed because I have a lot of work.|저는 운동으로 스트레스를 풀어요.=I relieve stress through exercise.
+분위기|雰圍氣|n|atmosphere, mood|이 카페는 분위기가 좋아서 자주 와요.=This café has a nice atmosphere, so I come often.|회의 분위기가 무거웠다.=The mood of the meeting was heavy.
+자유|自由|n|freedom|누구에게나 말할 자유가 있다.=Everyone has the freedom to speak.|주말에는 자유 시간이 많아요.=I have a lot of free time on weekends.
+책임|責任|n|responsibility|이번 일은 제가 책임을 지겠습니다.=I will take responsibility for this matter.|그는 책임감이 강한 사람이다.=He is a person with a strong sense of responsibility.
+안전|安全|n|safety|안전을 위해서 안전벨트를 매세요.=Fasten your seatbelt for safety.|아이들이 안전하게 놀 수 있는 곳이 필요하다.=We need places where children can play safely.
+사고|事故|n|accident|교통사고가 나서 길이 막혔어요.=There was a traffic accident, so the road was blocked.|사고를 막으려면 규칙을 지켜야 한다.=To prevent accidents, you must follow the rules.
+신청하다|申請+하다|v|to apply for, to request|장학금을 신청하려면 어떻게 해야 해요?=What do I have to do to apply for a scholarship?|인터넷으로 수업을 신청했어요.=I signed up for the class online.
+확인하다|確認+하다|v|to check, to confirm|출발하기 전에 시간을 다시 확인하세요.=Check the time again before you leave.|이메일을 확인하고 답장을 보냈다.=I checked my email and sent a reply.
+선택하다|選擇+하다|v|to choose, to select|두 가지 중에서 하나를 선택하세요.=Choose one of the two.|전공을 선택할 때 고민을 많이 했어요.=I thought hard when choosing my major.
+비교하다|比較+하다|v|to compare|가격을 비교해 보고 사는 것이 좋아요.=It's good to compare prices before buying.|다른 사람과 자신을 비교하지 마세요.=Don't compare yourself with other people.
+설명하다|說明+하다|v|to explain|선생님이 문법을 쉽게 설명해 주셨어요.=The teacher explained the grammar in an easy way.|왜 늦었는지 설명해 보세요.=Try to explain why you were late.
+포기하다|抛棄+하다|v|to give up|힘들어도 끝까지 포기하지 마세요.=Even if it's hard, don't give up until the end.|비가 많이 와서 등산을 포기했다.=It rained heavily, so we gave up on hiking.
+참다||v|to endure, to hold back|너무 아파서 참을 수가 없었어요.=It hurt so much that I couldn't bear it.|웃음을 참느라고 힘들었다.=I had a hard time holding back my laughter.
+익숙하다||adj|familiar, used to|이제 한국 생활에 익숙해졌어요.=I've gotten used to life in Korea now.|이 길은 익숙해서 지도가 필요 없다.=I know this road well, so I don't need a map.
+답답하다||adj|stuffy; frustrated|말이 안 통해서 정말 답답했어요.=I was really frustrated because we couldn't communicate.|방 안이 답답하니까 창문을 엽시다.=The room is stuffy, so let's open the window.
+부럽다||adj|envious|한국어를 잘하는 친구가 부러워요.=I envy my friend who speaks Korean well.|여행을 자주 다니는 네가 부럽다.=I envy you for traveling so often.
+아깝다||adj|regrettable to waste; too good to lose|시간이 아까우니까 빨리 시작합시다.=Time is too precious to waste, so let's start quickly.|남은 음식을 버리기가 아까워요.=It feels like a waste to throw away the leftover food.
+오히려||adv|rather, on the contrary|약을 먹었는데 오히려 더 아파요.=I took medicine, but it hurts even more instead.|도와주려고 했는데 오히려 방해가 됐다.=I meant to help, but I got in the way instead.
+드디어||adv|finally, at last|드디어 시험이 끝났어요!=The exams are finally over!|오랫동안 기다린 책이 드디어 나왔다.=The book I had long waited for finally came out.
+서비스|Eng. service|n|service; something given for free|이 호텔은 서비스가 좋기로 유명하다.=This hotel is famous for its good service.|사장님이 음료수를 서비스로 주셨어요.=The owner gave us drinks on the house.

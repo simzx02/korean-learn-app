@@ -1,0 +1,50 @@
+지속적|持續的|n|continuous, sustained|환경 문제를 해결하려면 지속적인 관심이 필요하다.=Solving environmental problems requires sustained attention.|물가가 지속적으로 상승하고 있다.=Prices are rising continuously.
+불가피하다|不可避+하다|adj|unavoidable, inevitable|비용 문제로 계획 변경이 불가피하다.=A change of plan is unavoidable because of costs.|불가피한 사정으로 회의에 참석하지 못했다.=I couldn't attend the meeting due to unavoidable circumstances.
+필수적|必須的|n|essential, indispensable|외국어 능력은 이제 취업에 필수적인 조건이 되었다.=Foreign-language ability has now become an essential requirement for employment.|건강을 유지하려면 충분한 수면이 필수적이다.=Sufficient sleep is essential for staying healthy.
+획기적|劃期的|n|groundbreaking, epoch-making|이번 연구는 암 치료에 획기적인 발견으로 평가된다.=This research is regarded as a groundbreaking discovery in cancer treatment.|그 기술은 생산 비용을 획기적으로 줄였다.=That technology cut production costs dramatically.
+객관적|客觀的|n|objective|기자는 사실을 객관적으로 전달해야 한다.=A journalist must convey the facts objectively.|객관적인 자료를 근거로 주장을 펼쳤다.=He made his argument on the basis of objective data.
+추상적|抽象的|n|abstract|그의 설명은 너무 추상적이어서 이해하기 어렵다.=His explanation is so abstract that it is hard to understand.|추상적인 목표보다 구체적인 계획이 필요하다.=A concrete plan is needed rather than an abstract goal.
+구체적|具體的|n|concrete, specific|구체적인 예를 들어 설명해 주십시오.=Please explain by giving a concrete example.|아직 구체적으로 결정된 것은 없다.=Nothing has been decided specifically yet.
+잠재력|潛在力|n|potential|그 선수는 무한한 잠재력을 가지고 있다.=That athlete has limitless potential.|교육의 목적은 학생의 잠재력을 끌어내는 데 있다.=The purpose of education lies in drawing out students' potential.
+창의력|創意力|n|creativity|미래 사회에서는 지식보다 창의력이 중요해질 것이다.=In future society, creativity will become more important than knowledge.|아이들의 창의력을 키우는 교육이 필요하다.=We need education that fosters children's creativity.
+통찰력|洞察力|n|insight|그 작가는 인간 심리에 대한 깊은 통찰력을 보여 준다.=That author shows deep insight into human psychology.|지도자에게는 미래를 내다보는 통찰력이 요구된다.=A leader is required to have the insight to look ahead to the future.
+편견|偏見|n|prejudice, bias|외국인에 대한 편견을 버려야 한다.=We must abandon prejudice against foreigners.|편견 없이 상대방의 의견을 들어 보자.=Let's listen to the other person's opinion without bias.
+고정관념|固定觀念|n|stereotype, fixed idea|남자는 울면 안 된다는 고정관념에서 벗어나야 한다.=We need to break free from the stereotype that men must not cry.|그 광고는 성 역할에 대한 고정관념을 깨뜨렸다.=That advertisement shattered stereotypes about gender roles.
+가치관|價値觀|n|values, value system|세대에 따라 결혼에 대한 가치관이 다르다.=Values regarding marriage differ by generation.|청소년기는 가치관이 형성되는 중요한 시기이다.=Adolescence is an important period in which values are formed.
+양극화|兩極化|n|polarization|소득 양극화가 사회 문제로 떠오르고 있다.=Income polarization is emerging as a social problem.|교육 기회의 양극화를 해소할 방안이 필요하다.=We need a way to resolve the polarization of educational opportunity.
+불평등|不平等|n|inequality|경제적 불평등은 사회 갈등의 원인이 된다.=Economic inequality becomes a cause of social conflict.|성별에 따른 임금 불평등이 여전히 존재한다.=Wage inequality by gender still exists.
+격차|隔差|n|gap, disparity|도시와 농촌의 소득 격차가 벌어지고 있다.=The income gap between cities and rural areas is widening.|세대 간 정보 격차를 줄이기 위한 교육이 실시되고 있다.=Education is being carried out to narrow the information gap between generations.
+부작용|副作用|n|side effect|이 약은 졸음과 같은 부작용이 나타날 수 있다.=This drug can cause side effects such as drowsiness.|급격한 개발은 여러 가지 부작용을 낳았다.=Rapid development produced a number of side effects.
+대안|代案|n|alternative|비판만 하지 말고 대안을 제시해야 한다.=You should propose an alternative instead of only criticizing.|화석 연료의 대안으로 태양 에너지가 주목받고 있다.=Solar energy is drawing attention as an alternative to fossil fuels.
+방안|方案|n|plan, measure|정부는 청년 실업을 해결하기 위한 방안을 마련하고 있다.=The government is preparing measures to solve youth unemployment.|회의에서 비용을 줄일 수 있는 방안을 논의했다.=At the meeting we discussed ways to cut costs.
+대책|對策|n|countermeasure|미세 먼지에 대한 근본적인 대책이 시급하다.=Fundamental countermeasures against fine dust are urgently needed.|사고가 반복되지 않도록 대책을 세워야 한다.=Measures must be put in place so that the accident is not repeated.
+전망|展望|n|outlook, prospect; view|내년에는 경기가 회복될 것이라는 전망이 나왔다.=A forecast has come out that the economy will recover next year.|이 방은 전망이 좋아서 바다가 한눈에 보인다.=This room has a good view, so you can see the whole sea at a glance.
+예측하다|豫測+하다|v|to predict, to forecast|전문가들도 이번 결과를 예측하지 못했다.=Even the experts failed to predict this result.|미래를 정확하게 예측하는 것은 불가능에 가깝다.=Predicting the future accurately is close to impossible.
+추구하다|追求+하다|v|to pursue, to seek|기업은 이윤을 추구하는 조직이다.=A corporation is an organization that pursues profit.|요즘 젊은이들은 일과 삶의 균형을 추구한다.=Young people these days seek a balance between work and life.
+확보하다|確保+하다|v|to secure, to obtain|연구를 계속하려면 예산을 확보해야 한다.=To continue the research, we have to secure a budget.|그 회사는 우수한 인재를 확보하는 데 힘쓰고 있다.=The company is working hard to secure talented people.
+강화하다|强化+하다|v|to strengthen, to reinforce|정부는 음주 운전에 대한 처벌을 강화하기로 했다.=The government decided to strengthen penalties for drunk driving.|공항의 보안 검사가 한층 강화되었다.=Security checks at the airport have been further tightened.
+완화하다|緩和+하다|v|to ease, to relax|정부는 기업에 대한 규제를 완화할 계획이다.=The government plans to ease regulations on businesses.|이 약은 통증을 완화하는 효과가 있다.=This medicine has the effect of easing pain.
+초래하다|招來+하다|v|to bring about, to cause (a negative result)|무분별한 개발은 환경 파괴를 초래한다.=Reckless development brings about environmental destruction.|작은 실수가 큰 사고를 초래할 수 있다.=A small mistake can cause a major accident.
+유발하다|誘發+하다|v|to trigger, to induce|흡연은 폐암을 유발하는 주요 원인이다.=Smoking is a major cause that triggers lung cancer.|그 광고는 소비자의 호기심을 유발했다.=The advertisement aroused consumers' curiosity.
+기여하다|寄與+하다|v|to contribute|그는 한국 문학의 발전에 크게 기여했다.=He contributed greatly to the development of Korean literature.|자원봉사는 지역 사회에 기여하는 좋은 방법이다.=Volunteering is a good way to contribute to the local community.
+반영하다|反映+하다|v|to reflect|언어는 그 사회의 문화를 반영한다.=Language reflects the culture of its society.|이번 정책에는 시민들의 의견이 반영되었다.=Citizens' opinions were reflected in this policy.
+간과하다|看過+하다|v|to overlook|성장만 강조하다 보면 분배의 문제를 간과하기 쉽다.=If you emphasize only growth, it is easy to overlook the problem of distribution.|이 문제의 심각성을 간과해서는 안 된다.=The seriousness of this problem must not be overlooked.
+우려|憂慮|n|concern, worry|물가 상승에 대한 우려가 커지고 있다.=Concern about rising prices is growing.|전문가들은 부작용을 우려하고 있다.=Experts are concerned about side effects.
+논란|論難|n|controversy|그 정치인의 발언이 논란을 일으켰다.=The politician's remark sparked controversy.|새 제도의 효과를 둘러싸고 논란이 계속되고 있다.=Controversy continues over the effectiveness of the new system.
+쟁점|爭點|n|point of contention, issue|이번 선거의 최대 쟁점은 부동산 문제이다.=The biggest issue in this election is real estate.|양측은 주요 쟁점에 대해 합의하지 못했다.=The two sides failed to agree on the main points of contention.
+합의|合意|n|agreement, consensus|노사는 임금 인상에 합의했다.=Labor and management agreed on a wage increase.|사회적 합의 없이 정책을 추진해서는 안 된다.=A policy should not be pushed forward without social consensus.
+타협|妥協|n|compromise|양쪽이 조금씩 양보해서 타협이 이루어졌다.=A compromise was reached as both sides gave way a little.|그는 원칙에 있어서는 타협하지 않는 사람이다.=He is a person who does not compromise on principle.
+규제|規制|n|regulation, restriction|일회용 컵 사용에 대한 규제가 시작되었다.=Regulation of disposable cup use has begun.|지나친 규제는 기업의 성장을 막을 수 있다.=Excessive regulation can block the growth of businesses.
+혁신|革新|n|innovation|기술 혁신이 산업 구조를 바꾸고 있다.=Technological innovation is changing the industrial structure.|회사가 살아남으려면 끊임없는 혁신이 필요하다.=A company needs constant innovation to survive.
+효율|效率|n|efficiency|회의 시간을 줄였더니 업무 효율이 높아졌다.=When we shortened meetings, work efficiency went up.|이 냉장고는 에너지 효율이 높다.=This refrigerator has high energy efficiency.
+윤리|倫理|n|ethics|과학 기술이 발전할수록 윤리 문제가 중요해진다.=The more science and technology advance, the more important ethical issues become.|기업도 사회적 책임과 윤리를 지켜야 한다.=Businesses too must uphold social responsibility and ethics.
+공동체|共同體|n|community|공동체 의식이 약해지면서 이웃 간의 교류가 줄었다.=As the sense of community weakened, interaction between neighbors decreased.|마을 공동체가 함께 아이들을 돌본다.=The village community looks after the children together.
+정체성|正體性|n|identity|청소년기에는 자신의 정체성에 대해 고민하게 된다.=In adolescence, one comes to agonize over one's own identity.|언어는 민족의 정체성과 깊은 관계가 있다.=Language is deeply related to a people's identity.
+인식|認識|n|perception, awareness|환경 보호에 대한 사람들의 인식이 달라지고 있다.=People's awareness of environmental protection is changing.|장애인에 대한 사회적 인식을 개선해야 한다.=Society's perception of people with disabilities must be improved.
+관점|觀點|n|point of view, perspective|같은 사건도 관점에 따라 다르게 해석될 수 있다.=The same event can be interpreted differently depending on one's point of view.|소비자의 관점에서 제품을 다시 살펴봐야 한다.=We need to look at the product again from the consumer's perspective.
+맥락|脈絡|n|context|단어의 의미는 맥락 속에서 파악해야 한다.=The meaning of a word must be grasped in context.|그 발언은 앞뒤 맥락을 무시한 채 보도되었다.=The remark was reported with its surrounding context ignored.
+바람직하다||adj|desirable, advisable|문제를 대화로 해결하는 것이 바람직하다.=It is desirable to resolve problems through dialogue.|아이를 다른 아이와 비교하는 것은 바람직하지 않다.=Comparing a child with other children is not advisable.
+걸림돌||n|obstacle, stumbling block|언어 장벽이 해외 진출의 걸림돌이 되고 있다.=The language barrier is an obstacle to expanding overseas.|지나친 규제가 경제 성장의 걸림돌로 작용한다.=Excessive regulation acts as a stumbling block to economic growth.
+뒷받침하다||v|to support, to back up|주장을 뒷받침할 수 있는 근거를 제시해야 한다.=You must present evidence that can back up your claim.|이 실험 결과는 기존 이론을 뒷받침한다.=The results of this experiment support the existing theory.
+번거롭다||adj|troublesome, cumbersome|절차가 번거로워서 신청을 포기하는 사람이 많다.=Many people give up applying because the procedure is cumbersome.|번거로우시겠지만 한 번 더 확인해 주십시오.=I know it's a hassle, but please check once more.
+막연하다|漠然+하다|adj|vague, obscure|미래에 대한 막연한 불안감을 느낀다.=I feel a vague anxiety about the future.|막연하게 생각하지 말고 구체적인 계획을 세워라.=Don't just think vaguely; make a concrete plan.

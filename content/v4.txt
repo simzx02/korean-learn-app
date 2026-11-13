@@ -1,0 +1,50 @@
+정부|政府|n|government|정부는 새로운 일자리 대책을 발표했다.=The government announced new measures for jobs.|시민들은 정부의 결정에 반대하고 있다.=Citizens are opposing the government's decision.
+정책|政策|n|policy|이번 교육 정책은 학생들의 부담을 줄이기 위한 것이다.=This education policy is meant to reduce the burden on students.|정책을 만들 때는 국민의 의견을 들어야 한다.=When making policy, the opinions of the people should be heard.
+제도|制度|n|system, institution|회사는 재택근무 제도를 도입했다.=The company introduced a work-from-home system.|현재의 입시 제도에는 문제가 많다.=There are many problems with the current college admissions system.
+법률|法律|n|law, legislation|새 법률은 내년 1월부터 시행된다.=The new law takes effect from January next year.|법률 문제는 전문가와 상담하는 것이 좋다.=It's best to consult an expert on legal matters.
+권리|權利|n|right|모든 사람은 교육을 받을 권리가 있다.=Everyone has the right to receive an education.|소비자는 자신의 권리를 알아야 한다.=Consumers should know their rights.
+의무|義務|n|duty, obligation|세금을 내는 것은 국민의 의무이다.=Paying taxes is a duty of citizens.|부모는 자녀를 보호할 의무가 있다.=Parents have a duty to protect their children.
+산업|産業|n|industry|관광 산업이 지역 경제에 큰 도움이 되고 있다.=The tourism industry is greatly helping the local economy.|정부는 미래 산업에 대한 지원을 늘리기로 했다.=The government decided to increase support for future industries.
+기술|技術|n|technology; skill|기술이 발달하면서 생활 방식도 달라졌다.=As technology advanced, our way of life changed as well.|그는 뛰어난 기술을 가진 요리사이다.=He is a chef with outstanding skills.
+과학|科學|n|science|과학의 발전은 인간의 수명을 늘렸다.=Advances in science have extended the human lifespan.|그 주장은 과학적으로 증명되지 않았다.=That claim has not been scientifically proven.
+연구|硏究|n|research, study|이 연구는 수면과 건강의 관계를 다루고 있다.=This study deals with the relationship between sleep and health.|그는 평생 한국 역사를 연구했다.=He researched Korean history his whole life.
+조사|調査|n|survey, investigation|조사 결과 대학생의 절반이 아르바이트를 하는 것으로 나타났다.=The survey showed that half of university students work part-time.|경찰이 사건을 조사하고 있다.=The police are investigating the case.
+통계|統計|n|statistics|통계에 따르면 1인 가구가 계속 늘고 있다.=According to statistics, single-person households keep increasing.|이 통계 자료는 작년에 발표된 것이다.=These statistics were released last year.
+분석하다|分析+하다|v|to analyze|실패의 원인을 분석해 볼 필요가 있다.=We need to analyze the cause of the failure.|전문가들은 이번 선거 결과를 다양하게 분석했다.=Experts analyzed the election results in various ways.
+현상|現象|n|phenomenon|혼자 밥을 먹는 사람이 늘어나는 현상이 나타나고 있다.=A phenomenon of more people eating alone is emerging.|이것은 일시적인 현상에 불과하다.=This is nothing more than a temporary phenomenon.
+추세|趨勢|n|trend, tendency|결혼 연령이 점점 높아지는 추세이다.=The age of marriage is on a rising trend.|온라인 쇼핑 이용자가 증가하는 추세를 보이고 있다.=The number of online shoppers is showing an upward trend.
+증가하다|增加+하다|v|to increase|외국인 관광객 수가 작년보다 크게 증가했다.=The number of foreign tourists increased greatly compared to last year.|노인 인구가 빠르게 증가하고 있다.=The elderly population is increasing rapidly.
+감소하다|減少+하다|v|to decrease|출생률이 해마다 감소하고 있다.=The birth rate is decreasing every year.|경기가 나빠져서 소비가 감소했다.=Consumption decreased because the economy worsened.
+소비|消費|n|consumption, spending|물가가 오르자 사람들이 소비를 줄이기 시작했다.=As prices rose, people began to cut back on spending.|에너지 소비를 줄이는 것이 환경 보호의 첫걸음이다.=Reducing energy consumption is the first step in protecting the environment.
+생산|生産|n|production|이 공장에서는 하루에 자동차 500대를 생산한다.=This factory produces 500 cars a day.|쌀 생산이 작년보다 줄었다.=Rice production fell compared to last year.
+수출|輸出|n|export|한국은 반도체를 많이 수출하는 나라이다.=Korea is a country that exports a lot of semiconductors.|수출이 늘면서 경제가 회복되고 있다.=The economy is recovering as exports grow.
+투자|投資|n|investment|교육에 대한 투자는 미래를 위한 것이다.=Investment in education is for the future.|그는 주식에 투자해서 큰돈을 벌었다.=He made a lot of money by investing in stocks.
+세금|稅金|n|tax|소득이 많을수록 세금을 많이 낸다.=The higher your income, the more tax you pay.|정부는 세금을 줄이겠다고 약속했다.=The government promised to cut taxes.
+물가|物價|n|prices, cost of living|물가가 올라서 생활이 어려워졌다.=Life has gotten harder because prices have gone up.|서울은 물가가 비싼 도시에 속한다.=Seoul is among the cities with a high cost of living.
+실업|失業|n|unemployment|청년 실업 문제가 심각해지고 있다.=The youth unemployment problem is becoming serious.|경제가 나빠지면 실업률이 높아진다.=When the economy worsens, the unemployment rate rises.
+인구|人口|n|population|서울의 인구는 약 천만 명이다.=The population of Seoul is about ten million.|농촌 인구가 계속 줄어들고 있다.=The rural population continues to shrink.
+고령화|高齡化|n|population aging|고령화 사회에서는 노인 복지가 중요한 문제가 된다.=In an aging society, welfare for the elderly becomes an important issue.|한국은 고령화가 매우 빠르게 진행되고 있다.=Aging is progressing very quickly in Korea.
+복지|福祉|n|welfare|이 회사는 직원 복지가 좋기로 유명하다.=This company is known for its good employee welfare.|정부는 복지 예산을 늘리기로 했다.=The government decided to increase the welfare budget.
+차별|差別|n|discrimination|성별에 따른 차별은 없어져야 한다.=Discrimination based on gender must disappear.|그는 외국인이라는 이유로 차별을 받았다.=He was discriminated against because he was a foreigner.
+갈등|葛藤|n|conflict|세대 간의 갈등이 점점 심해지고 있다.=Conflict between generations is growing more severe.|대화를 통해 갈등을 풀어야 한다.=Conflicts should be resolved through dialogue.
+여론|輿論|n|public opinion|여론 조사 결과 찬성이 60%로 나타났다.=The opinion poll showed 60% in favor.|정부는 여론을 무시할 수 없다.=The government cannot ignore public opinion.
+언론|言論|n|the press, media|언론은 사실을 정확하게 보도해야 한다.=The press must report facts accurately.|그 사건은 언론의 큰 관심을 받았다.=The incident received great attention from the media.
+광고|廣告|n|advertisement|광고를 보고 그 제품을 사게 되었다.=I ended up buying the product after seeing the advertisement.|과장된 광고는 소비자에게 피해를 줄 수 있다.=Exaggerated advertising can harm consumers.
+개발|開發|n|development (of products, land, skills)|그 회사는 새로운 약을 개발하는 데 성공했다.=The company succeeded in developing a new drug.|무리한 개발로 자연이 파괴되고 있다.=Nature is being destroyed by excessive development.
+보호|保護|n|protection|멸종 위기 동물을 보호해야 한다.=Endangered animals must be protected.|개인 정보 보호가 중요한 문제로 떠올랐다.=Protection of personal information has emerged as an important issue.
+오염|汚染|n|pollution, contamination|공장 폐수로 강물이 오염되었다.=The river was polluted by factory wastewater.|대기 오염이 심한 날에는 마스크를 쓰는 것이 좋다.=It's good to wear a mask on days when air pollution is severe.
+재활용|再活用|n|recycling|쓰레기를 종류별로 나눠서 재활용을 합시다.=Let's sort trash by type and recycle.|이 가방은 재활용 플라스틱으로 만들었다.=This bag was made from recycled plastic.
+에너지|Eng. energy|n|energy|태양열과 같은 친환경 에너지에 대한 관심이 높다.=There is great interest in eco-friendly energy such as solar heat.|에너지를 절약하기 위해 불을 끄고 다닙시다.=Let's turn off the lights when we leave to save energy.
+효과|效果|n|effect, effectiveness|이 약은 감기에 효과가 있다.=This medicine is effective against colds.|광고 효과로 판매량이 두 배로 늘었다.=Sales doubled thanks to the effect of the advertising.
+장점|長點|n|strength, advantage|이 제품의 장점은 가볍다는 것이다.=The advantage of this product is that it is light.|누구에게나 장점과 단점이 있다.=Everyone has strengths and weaknesses.
+가치|價値|n|value, worth|이 그림은 예술적 가치가 높다.=This painting has high artistic value.|돈으로 살 수 없는 가치도 있다.=There are also values that money cannot buy.
+기준|基準|n|standard, criterion|회사를 선택하는 기준은 사람마다 다르다.=The criteria for choosing a company differ from person to person.|이 제품은 안전 기준을 통과했다.=This product passed the safety standards.
+주장하다|主張+하다|v|to claim, to argue|그는 자신이 잘못하지 않았다고 주장했다.=He claimed that he had done nothing wrong.|전문가들은 규제가 필요하다고 주장한다.=Experts argue that regulation is necessary.
+반대하다|反對+하다|v|to oppose|주민들은 공장 건설에 반대하고 있다.=Residents are opposing the construction of the factory.|부모님이 결혼을 반대하셔서 고민이다.=I'm troubled because my parents oppose the marriage.
+인정하다|認定+하다|v|to admit, to acknowledge|그는 자신의 실수를 인정하고 사과했다.=He admitted his mistake and apologized.|그 선수는 실력을 인정받아 대표로 뽑혔다.=The athlete's skill was recognized, and he was picked for the national team.
+극복하다|克服+하다|v|to overcome|그는 장애를 극복하고 꿈을 이루었다.=He overcame his disability and achieved his dream.|어려움을 극복하는 과정에서 많이 성장했다.=I grew a lot in the process of overcoming hardship.
+적응하다|適應+하다|v|to adapt, to adjust|새로운 환경에 적응하는 데 시간이 걸렸다.=It took time to adapt to the new environment.|아이들은 어른보다 빨리 적응하는 편이다.=Children tend to adapt faster than adults.
+뛰어나다||adj|outstanding, excellent|그 학생은 언어 감각이 뛰어나다.=That student has an outstanding feel for language.|이 카메라는 성능이 뛰어난 데다가 가격도 싸다.=This camera performs excellently and is also cheap.
+드물다||adj|rare, uncommon|요즘은 손으로 편지를 쓰는 사람이 드물다.=These days people who write letters by hand are rare.|이 지역에는 눈이 오는 일이 드물다.=It rarely snows in this region.
+뚜렷하다||adj|clear, distinct|한국은 사계절이 뚜렷한 나라이다.=Korea is a country with four distinct seasons.|두 제품 사이에는 뚜렷한 차이가 없다.=There is no clear difference between the two products.
+꾸준히||adv|steadily, consistently|꾸준히 운동하면 건강이 좋아질 것이다.=If you exercise steadily, your health will improve.|그 책은 10년 동안 꾸준히 팔리고 있다.=That book has been selling steadily for ten years.

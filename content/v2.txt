@@ -1,0 +1,50 @@
+약속|約束|n|promise; appointment|오늘 저녁에 친구와 약속이 있어요.=I have plans with a friend this evening.|약속을 꼭 지키세요.=Be sure to keep your promise.
+계획|計劃|n|plan|방학 계획을 세웠어요?=Have you made plans for the vacation?|계획대로 일이 잘 됐어요.=Things went well, just as planned.
+준비하다|準備+하다|v|to prepare|내일 발표를 준비하고 있어요.=I'm preparing tomorrow's presentation.|여행 가기 전에 준비할 것이 많아요.=There is a lot to prepare before going on a trip.
+연습|練習|n|practice|매일 발음 연습을 해요.=I practice pronunciation every day.|연습을 많이 하면 잘할 수 있어요.=If you practice a lot, you can do it well.
+시험|試驗|n|exam, test|다음 주에 한국어 시험을 봐요.=I'm taking a Korean exam next week.|시험이 생각보다 어려웠어요.=The exam was harder than I thought.
+숙제|宿題|n|homework|숙제를 다 한 후에 놀 거예요.=I'll play after I finish all my homework.|오늘은 숙제가 없어서 좋아요.=I'm glad there's no homework today.
+질문|質問|n|question|질문이 있으면 손을 드세요.=If you have a question, raise your hand.|선생님께 질문을 했어요.=I asked the teacher a question.
+대답|對答|n|answer, reply|이름을 불렀는데 대답이 없었어요.=I called his name, but there was no answer.|질문에 큰 소리로 대답하세요.=Answer the question in a loud voice.
+교통|交通|n|traffic, transportation|서울은 교통이 편리해요.=Transportation is convenient in Seoul.|교통이 복잡해서 늦었어요.=I was late because traffic was heavy.
+지하철|地下鐵|n|subway|지하철을 타면 빨리 갈 수 있어요.=If you take the subway, you can get there quickly.|지하철 2호선으로 갈아타세요.=Transfer to subway line 2.
+공항|空港|n|airport|공항까지 어떻게 가요?=How do I get to the airport?|친구를 마중하러 공항에 갔어요.=I went to the airport to pick up my friend.
+예약|豫約|n|reservation, booking|식당을 미리 예약했어요.=I reserved the restaurant in advance.|예약을 취소하고 싶은데요.=I'd like to cancel my reservation.
+취미|趣味|n|hobby|제 취미는 사진 찍기예요.=My hobby is taking pictures.|취미가 뭐예요?=What is your hobby?
+사진|寫眞|n|photograph|여기에서 사진을 찍어도 돼요?=May I take a picture here?|가족 사진을 책상 위에 놓았어요.=I put a family photo on my desk.
+선물|膳物|n|gift, present|친구 생일 선물을 샀어요.=I bought a birthday present for my friend.|어머니께 꽃을 선물로 드렸어요.=I gave my mother flowers as a gift.
+생일|生日|n|birthday|생일 축하해요!=Happy birthday!|제 생일은 11월이에요.=My birthday is in November.
+건강|健康|n|health|건강을 위해서 운동을 시작했어요.=I started exercising for my health.|건강이 제일 중요해요.=Health is the most important thing.
+감기|感氣|n|a cold|감기에 걸려서 학교에 못 갔어요.=I caught a cold, so I couldn't go to school.|감기 조심하세요.=Take care not to catch a cold.
+약|藥|n|medicine|하루에 세 번 약을 드세요.=Take the medicine three times a day.|약을 먹고 푹 쉬었어요.=I took medicine and got a good rest.
+기분|氣分|n|mood, feeling|오늘은 기분이 좋아요.=I'm in a good mood today.|그 말을 듣고 기분이 나빴어요.=I felt bad after hearing that.
+걱정||n|worry, concern|걱정하지 마세요.=Don't worry.|시험 때문에 걱정이 많아요.=I'm very worried because of the exam.
+성격|性格|n|personality, character|제 동생은 성격이 밝아요.=My younger sibling has a cheerful personality.|우리는 성격이 잘 맞아요.=Our personalities match well.
+경험|經驗|n|experience|한국에서 좋은 경험을 많이 했어요.=I had many good experiences in Korea.|아르바이트를 해 본 경험이 있어요?=Do you have any experience working part-time?
+문화|文化|n|culture|한국 문화에 관심이 많아요.=I'm very interested in Korean culture.|나라마다 문화가 달라요.=Culture differs from country to country.
+고향|故鄕|n|hometown|제 고향은 바다가 가까워요.=My hometown is close to the sea.|명절에 고향에 내려가요.=I go down to my hometown for the holidays.
+계절|季節|n|season|한국에는 사계절이 있어요.=Korea has four seasons.|어느 계절을 제일 좋아해요?=Which season do you like best?
+방학|放學|n|school vacation|여름 방학에 뭐 할 거예요?=What will you do during the summer vacation?|방학 동안 고향에 다녀왔어요.=I visited my hometown during the vacation.
+졸업|卒業|n|graduation|졸업 후에 한국 회사에 취직하고 싶어요.=After graduation, I want to get a job at a Korean company.|내년 2월에 대학교를 졸업해요.=I graduate from university next February.
+결혼|結婚|n|marriage, wedding|언니가 다음 달에 결혼을 해요.=My older sister is getting married next month.|결혼 축하합니다.=Congratulations on your wedding.
+이사|移徙|n|moving (house)|지난주에 새 집으로 이사했어요.=I moved to a new house last week.|이사 준비 때문에 바빠요.=I'm busy getting ready to move.
+청소|淸掃|n|cleaning|주말마다 방 청소를 해요.=I clean my room every weekend.|청소를 하니까 기분이 좋아졌어요.=I felt better after cleaning.
+요리|料理|n|cooking; dish|저는 요리를 잘 못해요.=I'm not good at cooking.|어머니가 만든 요리가 제일 맛있어요.=The food my mother makes is the most delicious.
+쇼핑|Eng. shopping|n|shopping|백화점에 쇼핑하러 갔어요.=I went shopping at the department store.|요즘은 인터넷 쇼핑을 자주 해요.=These days I often shop online.
+아르바이트|Ger. Arbeit|n|part-time job|편의점에서 아르바이트를 해요.=I work part-time at a convenience store.|방학에 아르바이트를 구하려고 해요.=I'm going to look for a part-time job during the vacation.
+메뉴|Eng. menu|n|menu|메뉴 좀 보여 주세요.=Please show me the menu.|이 식당은 메뉴가 다양해요.=This restaurant has a varied menu.
+갈아타다||v|to transfer (transport)|시청역에서 1호선으로 갈아타세요.=Transfer to line 1 at City Hall Station.|버스를 두 번 갈아타야 해요.=You have to change buses twice.
+도착하다|到着+하다|v|to arrive|기차가 10분 후에 도착해요.=The train arrives in 10 minutes.|집에 도착하면 연락할게요.=I'll contact you when I get home.
+출발하다|出發+하다|v|to depart, to set off|비행기가 오후 3시에 출발해요.=The plane departs at 3 p.m.|지금 출발하면 늦지 않을 거예요.=If we leave now, we won't be late.
+잃어버리다||v|to lose (something)|지하철에서 지갑을 잃어버렸어요.=I lost my wallet on the subway.|잃어버린 우산을 찾았어요.=I found the umbrella I had lost.
+빌리다||v|to borrow; to rent|도서관에서 책을 빌렸어요.=I borrowed a book from the library.|친구한테 우산을 빌려도 될까요?=May I borrow an umbrella from my friend?
+돕다||v|to help|어려운 사람을 돕고 싶어요.=I want to help people in need.|친구가 이사하는 것을 도와줬어요.=I helped my friend move.
+필요하다|必要+하다|adj|to be necessary, to need|여권이 필요해요.=You need a passport.|도움이 필요하면 말씀하세요.=If you need help, please tell me.
+편하다|便+하다|adj|comfortable; convenient|이 의자는 정말 편해요.=This chair is really comfortable.|편한 시간에 오세요.=Come at a time that is convenient for you.
+복잡하다|複雜+하다|adj|complicated; crowded|출근 시간에는 지하철이 복잡해요.=The subway is crowded during the morning commute.|이 문제는 좀 복잡해요.=This problem is a bit complicated.
+친절하다|親切+하다|adj|kind, friendly|그 가게 직원은 아주 친절해요.=The staff at that store are very kind.|친절하게 설명해 주셔서 감사합니다.=Thank you for explaining so kindly.
+조용하다||adj|quiet|도서관에서는 조용히 해야 해요.=You have to be quiet in the library.|이 동네는 조용해서 살기 좋아요.=This neighborhood is quiet, so it's nice to live in.
+피곤하다|疲困+하다|adj|tired|어제 늦게 자서 피곤해요.=I'm tired because I went to bed late last night.|피곤할 때는 푹 쉬세요.=When you're tired, get plenty of rest.
+유명하다|有名+하다|adj|famous|전주는 비빔밥으로 유명해요.=Jeonju is famous for bibimbap.|그 가수는 세계적으로 유명해요.=That singer is famous worldwide.
+중요하다|重要+하다|adj|important|아침을 먹는 것이 중요해요.=It's important to eat breakfast.|내일 중요한 회의가 있어요.=I have an important meeting tomorrow.
+벌써||adv|already|벌써 12시예요.=It's already 12 o'clock.|숙제를 벌써 다 했어요?=Have you already finished your homework?

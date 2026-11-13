@@ -3,23 +3,29 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>한걸음 · TOPIK 1–6 vocabulary and grammar</title>
-<meta name="description" content="Study Korean vocabulary and grammar for TOPIK levels 1 to 6, with hanja origins, example sentences, flashcards and quizzes.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23b8432c'/%3E%3Ctext x='32' y='45' font-size='36' text-anchor='middle' fill='%23fbf8f1' font-family='serif'%3E한%3C/text%3E%3C/svg%3E">
+<title>KorLearn · TOPIK 1–6 vocabulary and grammar</title>
+<meta name="description" content="Study 11,000 graded Korean words and 248 grammar patterns for TOPIK levels 1 to 6, in units of 50 words, with hanja origins, flashcards, quizzes and typing tests.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%232466c9'/%3E%3Ctext x='32' y='45' font-size='36' text-anchor='middle' fill='%23fbf8f1' font-family='serif'%3E한%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Serif+KR:wght@500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="shell.css">
 </head>
 <body>
 <header class="top">
-  <a class="brand" href="#/"><span class="seal" lang="ko">한</span><span><b lang="ko">한걸음</b><small>TOPIK 1–6 · one step at a time</small></span></a>
+  <a class="brand" href="#/"><span class="seal" lang="ko">한</span><span><b>KorLearn</b><small>TOPIK 1–6 · one step at a time</small></span></a>
   <nav id="nav" aria-label="Sections"></nav>
 </header>
 <main id="app" tabindex="-1"><p class="loading">Loading…</p></main>
 <footer class="foot">
-  <p>Vocabulary and grammar only. Progress is saved in this browser. Word index derived from the NIKL and TOPIK public vocabulary lists via <a href="https://github.com/julienshim/combined_korean_vocabulary_list" target="_blank" rel="noopener">julienshim/combined_korean_vocabulary_list</a>.</p>
+  <p>Vocabulary and grammar only. Progress is saved in this browser; use Export progress on the home page to back it up. Word grades, hanja, English definitions and Korean examples come from the <a href="https://krdict.korean.go.kr/eng" target="_blank" rel="noopener">Korean Learners' Dictionary</a> of the National Institute of Korean Language (CC BY-SA 2.0 KR). Frequency order uses <a href="https://github.com/julienshim/combined_korean_vocabulary_list" target="_blank" rel="noopener">julienshim/combined_korean_vocabulary_list</a>.</p>
 </footer>
+<aside class="buddy" aria-live="polite">
+  <div class="bubble"><b lang="ko"></b><span></span></div>
+  <button class="buddy-face" aria-label="Study buddy: click for encouragement"></button>
+</aside>
+<script src="shell.js" defer></script>
 <script src="app.js" defer></script>
 </body>
 </html>

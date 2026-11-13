@@ -1,0 +1,158 @@
+1|와/과|과|and; with (after a noun)
+1|하고|하고|and; with (spoken)
+1|(이)랑|이랑|and; with (casual)
+1|의|의|possessive "of, 's"
+1|에게 / 한테|에게|to (a person or animal)
+1|에게서 / 한테서|에게서|from (a person)
+1|부터|부터|from, starting at
+1|까지|까지|until, as far as
+1|만|만|only, just
+1|(으)로|으로|by means of; toward
+1|보다|보다|than (comparison)
+1|(이)나|이나|or; as many as
+1|-ㅂ니다/습니다|-습니다|formal polite statement ending
+1|-(으)ㄹ까요?|-ㄹ까요|"shall we…?"; "I wonder…"
+1|-(으)ㅂ시다|-ㅂ시다|"let's" (formal)
+1|-(으)ㄹ게요|-ㄹ게요|"I will" (promise to the listener)
+1|-(으)ㄹ래요|-ㄹ래요|"I'd like to"; "will you…?"
+1|-지요?|-지요|"…, right?" (seeking agreement)
+1|-네요|-네요|mild surprise at something just noticed
+1|-(으)시-|-으시-|honorific marker for the subject
+1|-지 말다|-지 말다|"don't" (negative command)
+1|-아/어 보다|-아 보다|"try doing"
+1|-(으)ㄹ 때|-ㄹ 때|"when"
+1|-겠-|-겠-|intention; supposition
+1|-(으)면서|-으면서|"while doing" (two actions at once)
+2|-거나|-거나|"or" (between verbs and adjectives)
+2|-(으)ㄴ 지|-ㄴ 지|"since" (time that has passed)
+2|-기로 하다|-기로 하다|"decide to"
+2|-아/어지다|-아지다|"become, get" (change of state)
+2|-게|-게|turns an adjective into an adverb: "-ly"
+2|-는 것|-는 것|turns a clause into a noun: "doing, the fact that"
+2|-기|-기|nominalizer: "doing"
+2|-나 보다|-나 보다|"it seems, I guess" (inference from evidence)
+2|-(으)ㄹ 줄 알다/모르다|-ㄹ 줄|"know / not know how to"
+2|-아/어 있다|-아 있다|a state that continues after an action
+2|-아도/어도|-아도|"even if, even though"
+2|-는 동안|-는 동안|"while, during"
+2|-(으)ㄴ 다음에|-ㄴ 다음에|"after doing"
+2|밖에|밖에|"nothing but, only" (with a negative)
+2|처럼|처럼|"like, as"
+2|마다|마다|"every, each"
+2|-군요|-군요|exclamation at a new realization
+2|-거든요|-거든요|"you see, because" (giving a reason the listener doesn't know)
+2|-잖아요|-잖아요|"as you know" (reminding)
+2|-(으)ㄹ지|-ㄹ지|"whether, if" (uncertainty)
+2|-아/어 드리다|-아 드리다|"do something for (someone honored)"
+2|-(으)ㄹ 수밖에 없다|-ㄹ 수밖에 없다|"have no choice but to"
+2|-기 위해서|-기 위해서|"in order to"
+2|에 대한 / 에 대해서|에 대한|"about, regarding"
+2|-(으)면 되다|-면 되다|"it's enough to; you just need to"
+2|-지 못하다|-지 못하다|"cannot, be unable to"
+3|-(으)ㄹ까 싶다|-ㄹ까 싶다|"be thinking one might…"; "be afraid that…"
+3|-는 척하다|-는 척하다|"pretend to"
+3|-(으)ㄹ 뿐이다|-ㄹ 뿐이다|"only, just"
+3|-는데도|-는데도|"even though"
+3|-아/어 놓다|-아 놓다|do something and leave it that way
+3|-아/어 두다|-아 두다|do something in advance and keep it
+3|-(으)ㄹ 만큼|-ㄹ 만큼|"to the extent that"
+3|-(으)ㄹ걸요|-ㄹ걸요|"probably" (soft guess)
+3|-(으)ㄹ걸 (그랬다)|-ㄹ걸|"I should have"
+3|-던데|-던데|recalling something witnessed, as background
+3|-더라고요|-더라고|"I found / saw that…" (reporting own experience)
+3|-는 대로|-는 대로|"as, just as"; "as soon as"
+3|-(으)ㄹ 테니까|-ㄹ 테니까|"since I will…"; "since it will probably…"
+3|-아/어 가다|-아 가다|an action continuing on into the future
+3|-아/어 오다|-아 오다|an action continuing up to now
+3|-곤 하다|-곤 하다|"used to; do from time to time"
+3|-는지|-는지|embedded question: "whether, what, who…"
+3|-아야겠다/어야겠다|-아야겠-|"I really should"
+3|-는 모양이다|-는 모양이다|"it appears that"
+3|-는 길에|-는 길에|"on the way to"
+3|-는 중이다|-는 중이다|"be in the middle of"
+3|만큼|만큼|"as much as"
+3|(이)라도|이라도|"at least; even"
+3|(이)든지|이든지|"whether… or; any"
+3|-아/어 보이다|-아 보이다|"look, seem" (appearance)
+3|-기만 하다|-기만 하다|"do nothing but"
+3|-게 하다|-게 하다|"make / let someone do"
+3|-고 나다 / -고 나서|-고 나다|"after finishing"
+3|-고 보니 / -고 보면|-고 보다|"after doing…, (I realized)"
+3|-기는요|-기는요|polite denial of praise or a remark
+3|-나요?|-나요|soft, polite question ending
+3|-아서는/어서는 안 되다|-아서는 안 되다|"must not"
+3|-기(가) 쉽다|-기가 쉽다|"be easy to; be apt to"
+4|-았/었더라면|-었더라면|"if only (I) had" (counterfactual)
+4|-는 데다가|-는 데다가|"on top of, in addition to"
+4|에 비해(서)|에 비하여|"compared to"
+4|-는 듯하다|-는 듯하다|"seem as if"
+4|-는 법이다|-는 법이다|"it is the way of things that"
+4|-고 말다|-고 말다|"end up doing" (regret or determination)
+4|-는 체하다|-는 체하다|"pretend to"
+4|-다(가) 보니 / -다(가) 보면|-다가 보다|"as one keeps doing…, (one finds / eventually)"
+4|-다가는|-다가는|"if you keep on…, (something bad)"
+4|-(으)ㄹ뿐더러|-ㄹ뿐더러|"not only… but also"
+4|-는 이상|-는 이상|"now that, as long as"
+4|-길래|-길래|"because (I saw / heard that)…, so I"
+4|-(으)나 마나|-나 마나|"whether or not… (it makes no difference)"
+4|-(으)ㄹ락 말락 하다|-ㄹ락 말락 하다|"be on the verge of"
+4|-는 줄 알다/모르다|-는 줄|"think / not know that"
+4|-거든|-거든|"if" (followed by a command or promise)
+4|-느니|-느니|"rather than"
+4|-기 일쑤이다|-기 일쑤이다|"be prone to, do all too often"
+4|-기가 무섭게|-기가 무섭게|"the moment that"
+4|-아/어 대다|-아 대다|"keep doing" (repeatedly, excessively)
+4|치고|치고|"for a…"; "as far as … go, without exception"
+4|(이)야말로|이야말로|"indeed, the very"
+4|조차|조차|"even" (least expected thing)
+4|마저|마저|"even" (the last one remaining)
+4|-는 마당에|-는 마당에|"in a situation where"
+4|-는 수가 있다|-는 수가 있다|"it can happen that"
+4|-고 해서|-고 해서|"partly because"
+4|-아/어 죽다|-아 죽다|"… to death" (extremely)
+4|-기보다는|-기보다는|"rather than"
+5|-기에|-기에|"because" (written)
+5|-기 짝이 없다|-기 짝이 없다|"extremely, beyond compare"
+5|-다 못해|-다 못하다|"unable to go on …ing"; "so … that"
+5|-고서야|-고서야|"only after"
+5|-고도|-고도|"even after…, and yet"
+5|-고서는|-고서는|"without doing…, cannot"
+5|-는걸요|-는걸요|mild objection or new observation
+5|-듯이|-듯이|"as if, just as"
+5|-다니|-다니|surprise or disbelief: "to think that"
+5|(으)로 인해(서)|으로 인하다|"due to, because of"
+5|에도 불구하고|에도 불구하고|"despite"
+5|(으)로써 / -(으)ㅁ으로써|으로써|"by means of; by doing"
+5|-자|-자|"as soon as; when" (written)
+5|-느니만 못하다|-느니만|"not as good as"
+5|-아서야/어서야|-아서야|"only after"; "how could… if"
+5|-(으)ㄹ 듯싶다|-ㄹ 듯싶다|"seems likely to"
+5|-(으)리라고|-리라고|quoting a thought or resolve about the future
+5|(이)나마|이나마|"even though it is not much"
+5|-는데도 불구하고|-는데도 불구하고|"despite the fact that"
+5|-기나 하다|-기나 하다|"at least do"
+5|-나 싶다|-나 싶다|"I wonder if; it seems that"
+5|-(으)ㄹ 테다|-ㄹ 테다|"I will" (firm intention)
+5|-는 동시에|-는 동시에|"at the same time as"
+5|-는 사이|-는 사이|"while, in the interval when"
+6|-(으)리만큼 / -(으)리만치|-리만큼|"to the extent that"
+6|-(으)ㄹ라치면|-ㄹ라치면|"whenever one tries to"
+6|-다마는|-다마는|"…, but"
+6|-(으)되|-되|"but; provided that"
+6|-(으)나|-나|"but" (written)
+6|-기로서니|-기로서니|"even granted that"
+6|(이)라든가|이라든가|"or, such as" (listing examples)
+6|-(으)ㅁ 직하다|-ㅁ 직하다|"is worth; is likely to"
+6|-다가도|-다가도|"even while…, (suddenly)"
+6|-(으)ㄹ 대로|-ㄹ 대로|"as … as can be"
+6|-고말고요|-고말고|"of course" (strong agreement)
+6|-자면|-자면|"if one intends to"
+6|(이)며|이며|"and" (listing, written)
+6|을/를 불문하고|-를 불문하고|"regardless of"
+6|은/는 고사하고|는 고사하고|"let alone"
+6|-(으)려야|-려야|"even if one tries to… (cannot)"
+6|-(으)ㄹ밖에|-ㄹ밖에|"cannot but; there is no other way than"
+6|-아/어 빠지다|-아 빠지다|"utterly, thoroughly" (a negative quality)
+6|-(으)ㄹ 나름이다|-ㄹ 나름이다|"it depends on how one…"
+6|-거니 하다|-거니 하다|"assume that"
+6|-느니보다|-느니보다|"rather than"
