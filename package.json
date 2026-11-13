@@ -1,0 +1,7 @@
+{
+  "name": "hangeoreum-topik",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TOPIK 1-6 vocabulary and grammar trainer (static site)",
+  "scripts": { "start": "npx serve ." }
+}

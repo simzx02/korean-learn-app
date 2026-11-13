@@ -1,0 +1,50 @@
+학교|學校|n|school|저는 매일 학교에 가요.=I go to school every day.|학교가 집에서 가까워요.=The school is close to my house.
+학생|學生|n|student|저는 대학교 학생이에요.=I am a university student.|교실에 학생이 많아요.=There are many students in the classroom.
+선생님|先生+님|n|teacher|선생님, 질문이 있어요.=Teacher, I have a question.|우리 한국어 선생님은 친절해요.=Our Korean teacher is kind.
+친구|親舊|n|friend|주말에 친구를 만나요.=I meet my friend on the weekend.|친구하고 같이 영화를 봤어요.=I watched a movie with my friend.
+가족|家族|n|family|우리 가족은 네 명이에요.=There are four people in my family.|가족이 보고 싶어요.=I miss my family.
+사람||n|person, people|저는 말레이시아 사람이에요.=I am Malaysian.|공원에 사람이 많아요.=There are a lot of people in the park.
+집||n|house, home|집에 일찍 가고 싶어요.=I want to go home early.|우리 집은 학교 근처에 있어요.=My house is near the school.
+물||n|water|물 좀 주세요.=Please give me some water.|저는 아침에 물을 마셔요.=I drink water in the morning.
+밥||n|cooked rice; a meal|밥 먹었어요?=Have you eaten?|저는 빵보다 밥을 좋아해요.=I like rice more than bread.
+음식|飮食|n|food|한국 음식을 좋아해요.=I like Korean food.|이 식당은 음식이 맛있어요.=The food at this restaurant is delicious.
+시간|時間|n|time; hour|지금 시간이 있어요?=Do you have time now?|학교까지 한 시간 걸려요.=It takes one hour to get to school.
+오늘||n|today|오늘은 날씨가 좋아요.=The weather is nice today.|오늘 저녁에 뭐 해요?=What are you doing this evening?
+내일|來日|n|tomorrow|내일 시험이 있어요.=I have an exam tomorrow.|내일 다시 올게요.=I'll come again tomorrow.
+어제||n|yesterday|어제 친구를 만났어요.=I met a friend yesterday.|어제는 너무 바빴어요.=I was very busy yesterday.
+주말|週末|n|weekend|주말에 보통 뭐 해요?=What do you usually do on weekends?|주말 잘 보내세요.=Have a nice weekend.
+여행|旅行|n|travel, trip|방학에 제주도로 여행을 가요.=I'm going on a trip to Jeju during the vacation.|저는 여행을 좋아해요.=I like traveling.
+공부하다|工夫+하다|v|to study|도서관에서 한국어를 공부해요.=I study Korean at the library.|어제 밤늦게까지 공부했어요.=I studied until late last night.
+운동|運動|n|exercise, sports|매일 아침에 운동을 해요.=I exercise every morning.|무슨 운동을 좋아해요?=What sport do you like?
+영화|映畫|n|movie, film|같이 영화 볼까요?=Shall we watch a movie together?|이 영화는 정말 재미있어요.=This movie is really fun.
+음악|音樂|n|music|저는 음악을 자주 들어요.=I often listen to music.|한국 음악을 좋아해요?=Do you like Korean music?
+책|冊|n|book|가방에 책이 두 권 있어요.=There are two books in my bag.|주말에 책을 읽어요.=I read books on weekends.
+전화|電話|n|telephone; phone call|나중에 전화할게요.=I'll call you later.|어제 어머니한테서 전화가 왔어요.=I got a call from my mother yesterday.
+회사|會社|n|company, office|아버지는 회사에 다녀요.=My father works at a company.|회사가 지하철역 근처에 있어요.=The office is near the subway station.
+병원|病院|n|hospital, clinic|머리가 아파서 병원에 갔어요.=I had a headache, so I went to the hospital.|병원은 은행 옆에 있어요.=The hospital is next to the bank.
+식당|食堂|n|restaurant, cafeteria|학교 식당에서 점심을 먹어요.=I eat lunch at the school cafeteria.|이 식당은 김치찌개가 유명해요.=This restaurant is famous for its kimchi stew.
+은행|銀行|n|bank|은행에서 돈을 찾았어요.=I withdrew money at the bank.|은행은 몇 시에 문을 열어요?=What time does the bank open?
+버스|Eng. bus|n|bus|버스를 타고 학교에 가요.=I take the bus to school.|버스 정류장이 어디에 있어요?=Where is the bus stop?
+커피|Eng. coffee|n|coffee|커피 한 잔 주세요.=One cup of coffee, please.|저는 아침마다 커피를 마셔요.=I drink coffee every morning.
+컴퓨터|Eng. computer|n|computer|컴퓨터로 숙제를 해요.=I do my homework on the computer.|새 컴퓨터를 사고 싶어요.=I want to buy a new computer.
+가다||v|to go|어디에 가요?=Where are you going?|내일 서울에 갈 거예요.=I'm going to Seoul tomorrow.
+오다||v|to come|친구가 우리 집에 와요.=My friend is coming to my house.|한국에 언제 왔어요?=When did you come to Korea?
+먹다||v|to eat|아침을 안 먹었어요.=I didn't eat breakfast.|뭐 먹고 싶어요?=What do you want to eat?
+마시다||v|to drink|차를 마실까요?=Shall we drink some tea?|저는 술을 안 마셔요.=I don't drink alcohol.
+보다||v|to see, to watch|어제 드라마를 봤어요.=I watched a drama yesterday.|저기 산을 보세요.=Look at that mountain over there.
+만나다||v|to meet|내일 몇 시에 만날까요?=What time shall we meet tomorrow?|도서관 앞에서 친구를 만났어요.=I met my friend in front of the library.
+사다||v|to buy|시장에서 과일을 샀어요.=I bought fruit at the market.|이 옷을 사고 싶어요.=I want to buy these clothes.
+좋아하다||v|to like|저는 매운 음식을 좋아해요.=I like spicy food.|무슨 색을 좋아해요?=What color do you like?
+있다||v|to exist, to be (somewhere); to have|책상 위에 가방이 있어요.=There is a bag on the desk.|저는 동생이 있어요.=I have a younger sibling.
+없다||adj|to not exist; to not have|지금 돈이 없어요.=I don't have money right now.|교실에 아무도 없어요.=There is nobody in the classroom.
+크다||adj|big, large|이 가방은 너무 커요.=This bag is too big.|제 방은 크지 않아요.=My room is not big.
+작다||adj|small|이 신발은 좀 작아요.=These shoes are a bit small.|작은 사이즈 있어요?=Do you have a small size?
+많다||adj|many, much|오늘은 숙제가 많아요.=I have a lot of homework today.|서울에는 사람이 많아요.=There are many people in Seoul.
+맛있다||adj|delicious|이 김치는 정말 맛있어요.=This kimchi is really delicious.|맛있게 드세요.=Enjoy your meal.
+비싸다||adj|expensive|이 시계는 너무 비싸요.=This watch is too expensive.|서울은 집값이 비싸요.=Housing is expensive in Seoul.
+싸다||adj|cheap|시장은 과일이 싸요.=Fruit is cheap at the market.|더 싼 것은 없어요?=Don't you have a cheaper one?
+덥다||adj|hot (weather)|여름에는 날씨가 더워요.=The weather is hot in summer.|방이 더워서 창문을 열었어요.=The room was hot, so I opened the window.
+춥다||adj|cold (weather)|한국의 겨울은 추워요.=Winter in Korea is cold.|추우니까 옷을 따뜻하게 입으세요.=It's cold, so dress warmly.
+재미있다||adj|fun, interesting|한국어 공부가 재미있어요.=Studying Korean is fun.|어제 본 영화는 재미있었어요.=The movie I saw yesterday was fun.
+날씨||n|weather|오늘 날씨가 어때요?=How's the weather today?|날씨가 좋아서 산책했어요.=The weather was nice, so I took a walk.
+감사하다|感謝+하다|v|to thank, to be grateful|도와주셔서 감사합니다.=Thank you for helping me.|선생님께 항상 감사해요.=I'm always grateful to my teacher.
