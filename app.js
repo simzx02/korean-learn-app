@@ -386,7 +386,7 @@ function route() {
   }
   return { view: 'home' };
 }
-let renderSeq = 0;
+let renderSeq = 0, modeKey = '';
 async function render() {
   const r = route(), seq = ++renderSeq;
   const key = location.hash;
@@ -407,6 +407,8 @@ async function render() {
   if (r.view === 'unit') Mascots.setLevel(r.l, `${r.l}/${r.u}`, [`${r.u}과를 시작해요!`, `Let's start unit ${r.u}!`]);
   else if (r.view === 'level') Mascots.setLevel(r.l, `L${r.l}`, [`${r.l}급에 오신 것을 환영해요!`, `Welcome to level ${r.l}!`]);
   else Mascots.setLevel(0);
+  if (r.view === 'unit' && ['quiz', 'type', 'gquiz', 'cards'].includes(r.mode) && modeKey !== key) setTimeout(() => Mascots.move('start'), 300);
+  modeKey = key;
 }
 
 /* ---------- events ---------- */
@@ -418,13 +420,13 @@ document.addEventListener('click', e => {
   if (act === 'status') { progress.v[b.dataset.id] = +b.dataset.s; saveProgress(); return stay(); }
   if (act === 'gdone') { if (gDone(b.dataset.p)) delete progress.g[b.dataset.p]; else progress.g[b.dataset.p] = 1; saveProgress(); return stay(); }
   if (act === 'filter') { listState.filter = b.dataset.f; return render(); }
-  if (act === 'flip') { session.flipped = true; return render(); }
+  if (act === 'flip') { session.flipped = true; Mascots.move('next'); return render(); }
   if (act === 'grade') { progress.v[session.deck[session.i].id] = +b.dataset.s; saveProgress(); session.i++; session.flipped = false; return render(); }
   if (act === 'pick') return pick(+b.dataset.i);
-  if (act === 'next') { e.preventDefault(); session.i++; session.picked = null; session.given = null; session.hint = false; return render(); }
+  if (act === 'next') { e.preventDefault(); Mascots.move('next'); session.i++; session.picked = null; session.given = null; session.hint = false; return render(); }
   if (act === 'hint') { session.hint = true; return render(); }
   if (act === 'giveup') return checkTyped('', true);
-  if (act === 'restart') { session = null; return render(); }
+  if (act === 'restart') { session = null; Mascots.move('start'); return render(); }
   if (act === 'export') return exportProgress();
   if (act === 'import') return document.getElementById('imp').click();
   if (act === 'reset' && b.dataset.sure) { progress = { v: {}, g: {} }; saveProgress(); notice = 'Progress erased.'; return render(); }

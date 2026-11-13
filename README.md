@@ -16,10 +16,11 @@ A static study app: no framework, and no build step to deploy.
 
 Six characters, one per level: PiPi the frog (1), Momo the cat (2), Bobo the puppy (3), Nini the rabbit (4), Koko the fox (5) and Tutu the hamster (6).
 
-- Nothing is redrawn. The six poses (stand, walk, running, jump, sit, wave) and the icon of each character come from the supplied transparent pose files in the original design, imported by `tools/import_poses.py`; the four multiview pictures come from the character design sheets, cut by `tools/cut_mascots.py`. Everything is in `assets/mascots/<id>/`.
-- Character data (names, colours, profile text, pose names, level) is one table, `LIST`, at the top of `shell.js`.
-- The Mascots page shows the lineup, each profile, the multiview gallery and the action poses. Picking a character changes the page's accent colour; inside a level the accent follows that level's character.
-- On unit pages the level's character sits in the corner as a study buddy: it waves at the start of a unit, jumps for a right answer, sits for a wrong one, and says a Korean phrase when clicked.
+- Nothing is redrawn. The six poses (stand, walk, running, jump, sit, wave) and the icon of each character come from the supplied transparent pose files in the original design, imported by `tools/import_poses.py`. Everything is in `assets/mascots/<id>/`.
+- Character data (names, colours, profile text, level) is one table, `LIST`, at the top of `shell.js`.
+- The Mascots page shows the lineup, each profile and the six action poses. Picking a character changes the page's accent colour; inside a level the accent follows that level's character.
+- On unit pages the level's character sits in the corner as a study buddy and uses all six poses: it stands while idle, waves to greet a unit or when clicked, jumps for a right answer, sits for a wrong answer or after 30 seconds without activity, walks when you move to the next question, and runs when a quiz starts or on every third right answer in a row.
+- Each character has its own short sound (frog, cat, puppy, rabbit, fox, hamster), generated in the browser with Web Audio from the `VOICE` table in `shell.js`; there are no sound files. It plays on a click and on answers. The "Sound on / Sound off" button under the buddy mutes both the sounds and the spoken phrase.
 - The hamster's sheet is labelled "Pipi"; the site calls it Tutu throughout, to avoid confusion with PiPi the frog.
 
 ## Where the content comes from
